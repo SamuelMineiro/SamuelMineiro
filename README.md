@@ -7,27 +7,25 @@ Tenho interesse em tecnologia, desenvolvimento de sistemas, dados e gestão de d
 ## 💻 Tecnologias
 
 **Linguagens**
-
-* Python
-* Java
-* JavaScript
-* SQL
+- Python
+- Java
+- JavaScript
+- SQL
 
 **Desenvolvimento Web**
+- HTML
+- CSS
+- JavaScript
 
-* HTML
-* CSS
-* JavaScript
+**Frameworks**
+- Spring Boot
 
-**Frameworks e ferramentas**
-
-* Spring Boot
-* Docker
+**Ferramentas**
+- Docker
 
 **Bancos de dados**
-
-* MySQL
-* SQLite
+- MySQL
+- SQLite
 
 ## 🎯 Interesses
 
